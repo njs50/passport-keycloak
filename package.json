@@ -9,8 +9,8 @@
   "author": "Rickard Östergård",
   "license": "MIT",
   "dependencies": {
-    "keycloak-auth-utils": "2.2.1",
-    "keycloak-connect": "2.2.1",
+    "keycloak-auth-utils": "3.2.1",
+    "keycloak-connect": "3.2.1",
     "uuid": "^2.0.2"
   }
 }
